@@ -1,5 +1,4 @@
-//https://www.youtube.com/watch?v=zQyrwxMPm88
-//https://github.com/fireship-io/react-firebase-chat
+
 import React from 'react';
 import './App.css';
 
