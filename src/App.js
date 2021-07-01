@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 import React, {useState, useRef} from 'react';
+=======
+import React from 'react';
+>>>>>>> 613b36653f6d37e5ef57994846a3c5245bda9675
 import './App.css';
 
 //import firebase sdk along with firestore and authentication
